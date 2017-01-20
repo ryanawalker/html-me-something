@@ -17,6 +17,10 @@ a {
     color: darkgray;
 }
 
+header img {
+    display: block;
+    margin: auto;
+}
 .entry {
     width: 70%;
     margin: 100px auto 100px;
